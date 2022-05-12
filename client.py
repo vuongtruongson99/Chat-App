@@ -1,21 +1,3 @@
-"""
-REFERENCE
-
-Grid Layout
-http://zetcode.com/gui/pyqt5/layout/
-
-Scrollable
-https://stackoverflow.com/questions/47930677/pythonpyqt5-how-to-use-qscrollarea-for-one-or-many-qgroupbox
-
-QListView
-https://www.pythoncentral.io/pyside-pyqt-tutorial-qlistview-and-qstandarditemmodel/
-
-HTML color picker
-https://www.w3schools.com/colors/colors_picker.asp
-
-Window close event
-https://stackoverflow.com/questions/40622095/pyqt5-closeevent-method
-"""
 import socket
 import sys
 import threading
